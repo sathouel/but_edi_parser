@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="but-edi-parser",
-    version="1.16.0",
+    version="1.16.1",
     author="Steven Athouel",
     author_email="sathouel@gmail.com",
     description="EDI Parser for BUT Suppliers",
